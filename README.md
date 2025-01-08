@@ -1,5 +1,4 @@
 # SIMPLE_CHATBOT
-# SIMPLE_CHATBOT
 
 ## Description
 SIMPLE_CHATBOT is a basic chatbot application designed to demonstrate simple conversational interactions.
